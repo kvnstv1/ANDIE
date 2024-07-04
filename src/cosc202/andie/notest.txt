@@ -1,0 +1,8 @@
+New error with UI
+
+1. java.lang.IllegalArgumentException: Raster IntegerInterleavedRaster: width = 962 height = 542 #Bands = 4 xOff
+
+2. The JSpinner for width only updates after height has been updated. How to change this?
+
+3. Ask Eden why saveAs has mnemonic key VK_A.
+
